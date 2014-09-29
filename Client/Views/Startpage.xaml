@@ -1,0 +1,9 @@
+﻿<Window x:Class="Client.Views.Startpage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Startpage" Height="300" Width="300">
+    <Grid>
+        <Image Source="/Resources\background.png" Margin="0, 0, 0, 0"/>
+        
+    </Grid>
+</Window>
